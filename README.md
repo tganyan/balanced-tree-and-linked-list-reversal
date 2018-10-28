@@ -1,4 +1,4 @@
-# Linked List Reversals and Balanced Binary tree ![travis badge](https://travis-ci.com/tganyan/letter-count.svg?branch=master)
+# Linked List Reversals and Balanced Binary tree ![travis badge](https://travis-ci.com/tganyan/balanced-tree-and-linked-list-reversal.svg?branch=master)
 
 This is for two separate tasks:
 1. Write at least three different function for reversing a linked list
